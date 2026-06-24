@@ -1,0 +1,7 @@
+pwd where i am
+ls  show files
+cd  change directory
+mkdir  create folder
+touch  create file
+nano  edit file
+cat  show file content

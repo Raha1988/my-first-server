@@ -1,0 +1,10 @@
+pwd where am i
+cd go to file
+ls show me all files
+cd .. go back
+rm remove file
+mkdir make file
+mv move or rename
+cat show file
+find . tree show files
+
